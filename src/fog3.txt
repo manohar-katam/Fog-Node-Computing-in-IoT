@@ -1,0 +1,10 @@
+Starting require threads
+message received from NEIBR: 5002 0
+message received from NEIBR: 5002 0
+message received from NEIBR: 5002 0
+message received from NEIBR: 5002 0
+message received from NEIBR: 5002 0
+message received from NEIBR: 5002 0
+message received from NEIBR: 5002 0
+message received from NEIBR: 5002 0
+message received from NEIBR: 5002 0
